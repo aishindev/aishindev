@@ -10,7 +10,7 @@ I'm also open to job opportunities. If you think my skills could improve your pr
 
 ### Technical skills
 
-Front-End: HTML | CSS | React | TypeScript.
-Back-End: JavaScript - Node.js - Express | C++ | SQL/SQLite | NoSQL.
-Tools: Linux | Git | GitHub.
-Language: Spanish (native) | English (reading, writing, listening)
+- Front-End: HTML | CSS | React | TypeScript.
+- Back-End: JavaScript - Node.js - Express | C++ | SQL/SQLite | NoSQL.
+- Tools: Linux | Git | GitHub.
+- Language: Spanish (native) | English (reading, writing, listening)
